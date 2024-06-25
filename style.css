@@ -1,0 +1,39 @@
+* {
+  background-color: grey;
+}
+img {
+  align-items: center;
+  width: 400px;
+  height: auto;
+}
+.a {
+  background-color: orangered;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.b {
+  background-color: springgreen;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.a1 {
+  color: yellow;
+  text-decoration: none;
+}
+
+.list {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif
+}
+
+.pic {
+  widht: 400px;
+  hight: auto;
+}
